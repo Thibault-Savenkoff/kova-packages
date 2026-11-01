@@ -1,0 +1,2 @@
+# The Kova package index: one line per package, sorted by name.
+# name address description
